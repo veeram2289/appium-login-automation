@@ -1,6 +1,6 @@
 # Appium Login Automation
 
-Simple Android login automation project using Appium and Java.
+ Android login automation  using Appium and Java.
 
 ## Test Scenarios
 
